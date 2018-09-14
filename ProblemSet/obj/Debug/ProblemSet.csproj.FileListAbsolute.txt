@@ -1,0 +1,7 @@
+C:\Users\gemba\source\repos\ProblemSet\ProblemSet\bin\Debug\ProblemSet.exe.config
+C:\Users\gemba\source\repos\ProblemSet\ProblemSet\bin\Debug\ProblemSet.exe
+C:\Users\gemba\source\repos\ProblemSet\ProblemSet\bin\Debug\ProblemSet.pdb
+C:\Users\gemba\source\repos\ProblemSet\ProblemSet\obj\Debug\ProblemSet.csprojResolveAssemblyReference.cache
+C:\Users\gemba\source\repos\ProblemSet\ProblemSet\obj\Debug\ProblemSet.csproj.CoreCompileInputs.cache
+C:\Users\gemba\source\repos\ProblemSet\ProblemSet\obj\Debug\ProblemSet.exe
+C:\Users\gemba\source\repos\ProblemSet\ProblemSet\obj\Debug\ProblemSet.pdb
